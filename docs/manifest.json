@@ -1,0 +1,67 @@
+{
+  "source_base_path": "C:/Users/David/Desktop/Vývoj/PrivateDocs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/food/greece.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/food/greece.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/food/mexico.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/food/mexico.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/food/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/food/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/food/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
