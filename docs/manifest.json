@@ -1,7 +1,50 @@
 {
-  "source_base_path": "C:/Users/David/Desktop/Vývoj/PrivateDocs",
+  "source_base_path": "C:/Users/David/Desktop/Vývoj/GitHub/PrivateDocs",
   "xrefmap": "xrefmap.yml",
   "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/coffee/frenchPress.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/coffee/frenchPress.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/coffee/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/coffee/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/coffee/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/coffee/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/coffee/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/coffee/vietnam.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/coffee/vietnam.html"
+        }
+      },
+      "version": ""
+    },
     {
       "type": "Conceptual",
       "source_relative_path": "docs/food/greece.md",
