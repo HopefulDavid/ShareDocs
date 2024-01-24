@@ -47,6 +47,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "docs/food/czech.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/food/czech.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "docs/food/greece.md",
       "output": {
         ".html": {
